@@ -15,30 +15,6 @@
     {
         "property": "Reports Accepted",
         "value": "0"
-    },
-    {
-        "property": "Friends Ahead",
-        "value": "0"
-    },
-    {
-        "property": "Friends Behind",
-        "value": "12"
-    },
-    {
-        "property": "Merit   List",
-        "value": "38"
-    },
-    {
-        "property": "Awards    Won",
-        "value": "2"
-    },
-    {
-        "property": "Avg TimeSpent",
-        "value": "64"
-    },
-    {
-        "property": "Attempts perday",
-        "value": "86"
     }
-]
+   ]
 }
